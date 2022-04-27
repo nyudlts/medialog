@@ -13,7 +13,7 @@ gem 'pg'
 gem 'kaminari'
 gem 'openurl', '~> 1.0.0'
 gem 'devise'
-gem 'thin'
+gem 'puma'
 gem 'therubyracer'
 gem 'jquery-turbolinks'
 
